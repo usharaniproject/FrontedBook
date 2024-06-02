@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name":"Story's Book",
+        "title":"Stories for Kids",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715164659~exp=1715168259~hmac=6df00ba526340e616c7d6b0de29e02b3e9a8094d68f7d889b6c0d4a699bcdb74&w=740"
+    },
+    {
+        "id":2,
+        "name":"Music Book",
+        "title":"Classical Music Books",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715164659~exp=1715168259~hmac=6df00ba526340e616c7d6b0de29e02b3e9a8094d68f7d889b6c0d4a699bcdb74&w=740"
+    },
+    {
+        "id":3,
+        "name":"Environmet",
+        "title":"How to Save Nature",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715164659~exp=1715168259~hmac=6df00ba526340e616c7d6b0de29e02b3e9a8094d68f7d889b6c0d4a699bcdb74&w=740"
+    },
+    {
+        "id":4,
+        "name":"Organic Farming",
+        "title":"Save Soil",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715164659~exp=1715168259~hmac=6df00ba526340e616c7d6b0de29e02b3e9a8094d68f7d889b6c0d4a699bcdb74&w=740"
+    },
+    {
+        "id":5,
+        "name":"Essay Writing",
+        "title":"General Knowledge",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715164659~exp=1715168259~hmac=6df00ba526340e616c7d6b0de29e02b3e9a8094d68f7d889b6c0d4a699bcdb74&w=740"
+    },
+    {
+        "id":6,
+        "name":"Kitchen Queen",
+        "title":"Way to Become Master Chef",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715164659~exp=1715168259~hmac=6df00ba526340e616c7d6b0de29e02b3e9a8094d68f7d889b6c0d4a699bcdb74&w=740"
+    },
+    {
+        "id":7,
+        "name":"CS World",
+        "title":"Specialist in AI",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715164659~exp=1715168259~hmac=6df00ba526340e616c7d6b0de29e02b3e9a8094d68f7d889b6c0d4a699bcdb74&w=740"
+    },
+    {
+        "id":8,
+        "name":"Social Service",
+        "title":"Cater to the needs of Poor",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715164659~exp=1715168259~hmac=6df00ba526340e616c7d6b0de29e02b3e9a8094d68f7d889b6c0d4a699bcdb74&w=740"
+    },
+    {
+        "id":9,
+        "name":"Tourism",
+        "title":"Travel Around the World",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715164659~exp=1715168259~hmac=6df00ba526340e616c7d6b0de29e02b3e9a8094d68f7d889b6c0d4a699bcdb74&w=740"
+    },
+    {
+        "id":10,
+        "name":"Novels",
+        "title":"Famous Telugu Novels",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715164659~exp=1715168259~hmac=6df00ba526340e616c7d6b0de29e02b3e9a8094d68f7d889b6c0d4a699bcdb74&w=740"
+    },
+    {
+        "id":11,
+        "name":"Skill Development",
+        "title":"Build Strong Communication",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715164659~exp=1715168259~hmac=6df00ba526340e616c7d6b0de29e02b3e9a8094d68f7d889b6c0d4a699bcdb74&w=740"
+    },
+    {
+        "id":12,
+        "name":"Gardening",
+        "title":"Famous Telugu Novels",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715164659~exp=1715168259~hmac=6df00ba526340e616c7d6b0de29e02b3e9a8094d68f7d889b6c0d4a699bcdb74&w=740"
+    }
+]
